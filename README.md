@@ -1,4 +1,4 @@
-# Front-end for displaing USDC token holder data
+# Front-end for displaying USDC token holder data
  For running a project follow a steps:
  
  step1: clone project

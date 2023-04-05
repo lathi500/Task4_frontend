@@ -1,9 +1,11 @@
 # Front-end for displaying USDC token holder data
  For running a project follow a steps:
- 
+
+```shell  
  step1: clone project
  step2: npm i
- step3: npm start 
+ step3: npm start
+ ```
  
  You will get given output: 
 ![Screenshot from 2023-04-05 19-13-56](https://user-images.githubusercontent.com/70260207/230098354-a2f490d1-18a6-4279-987e-6fd897ea06b6.png)

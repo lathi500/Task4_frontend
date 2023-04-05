@@ -12,6 +12,6 @@
 
 
 
-Note: Here i have displayed 100 data onley.
+Note: Here i have displayed 100 data only because of clearity.
 
 Thanks! :)
